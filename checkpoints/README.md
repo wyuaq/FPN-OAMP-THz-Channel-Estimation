@@ -1,0 +1,1 @@
+Download the pretrained checkpoints from [FPN-OAMP-checkpoints](https://hkustconnect-my.sharepoint.com/:f:/g/personal/wyuaq_connect_ust_hk/EnHPxyogdzRIvz4oQsLBU1EBjmuR9dFlzeTX2CjTw1Rbkw?e=hy61F9), and paste it into ./checkpoints/
