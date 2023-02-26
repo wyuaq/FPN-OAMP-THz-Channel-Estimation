@@ -24,7 +24,7 @@ If you find the codes useful for your research, please kindly cite our papers (b
 
 ### Step 1: Set the environment
 
-Create a new conda environment and install all dependencies. It is highly suggested to run the codes on GPU, though they can work on CPU as well. 
+Create a new conda environment and install dependencies. It is highly suggested to run the codes on GPU, though they work on CPU as well. 
 
 ```
 conda create --name <your_environment_name> --file requirements.txt
