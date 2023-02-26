@@ -56,7 +56,7 @@ If you wish to retrain the neural networks, you may do so by
 
 We provide three demos to test the performance in ./demos/. Demo1 evaluates the NMSE performance as a function of SNR. Demo2 evaluates the NMSE performance as a function of the number of iterations (convergence in terms of the objective function). Demo3 evaluates the residual norm as a function of the number of iterations (linear convergence rate to the unique fixed point). The relevant figures are available at ./figures/.
 
-**Note:** the results reproduced by this repository is slightly better than those reported in our paper, due to the additional use of layer normalization. 
+**Note:** the results reproduced by this repository are slightly better than those reported in our paper, due to the additional use of layer normalization. 
 
 ## Citation
 
