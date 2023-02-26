@@ -8,7 +8,7 @@ The extended [journal version](https://arxiv.org/pdf/2211.15939.pdf) "**An Adapt
 
 The notations used in the codes may be slightly different from those in the papers. I tried to clarify with some comments in the codes. Should you meet any confusion or need any further help, please feel free to contact me via email (you can find the address in the papers listed above). 
 
-If you find the codes useful for your research, please kindly cite our papers ( with bibtex provided at the end of this readme). Enjoy reproducible research! 
+If you find the codes useful for your research, please kindly cite our papers ( with bibtex provided at the bottom). Enjoy reproducible research! 
 
 ## Prerequisites
 
@@ -61,7 +61,6 @@ We provide three demos to test the performance in ./demos/. Demo1 evaluates the 
 
 ## Citation
 
-If you find the codes useful for your research, please kindly cite our papers as follows. Enjoy reproducible research! 
 
 ```
 @inproceedings{yu2022hybrid,
