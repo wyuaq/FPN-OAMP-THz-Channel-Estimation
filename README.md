@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the codes of the fixed point network-based orthogonal approximate message passing (FPN-OAMP) algorithm for THz ultra-massive MIMO channel estimation proposed in our [paper](https://arxiv.org/pdf/2205.04944.pdf) "**Hybrid Far- and Near-Field Channel Estimation for THz Ultra-Massive MIMO via Fixed Point Networks**", which was accepted by the 2022 IEEE Global Communications Conference (Globecom'22). 
+This repository contains the codes of the fixed point network-based orthogonal approximate message passing (FPN-OAMP) algorithm proposed in our [paper](https://arxiv.org/pdf/2205.04944.pdf) "**Hybrid Far- and Near-Field Channel Estimation for THz Ultra-Massive MIMO via Fixed Point Networks**", which was accepted by the 2022 IEEE Global Communications Conference (Globecom'22). 
 
 The extended [journal version](https://arxiv.org/pdf/2211.15939.pdf) "**An Adaptive and Robust Deep Learning Framework for THz Ultra-Massive MIMO Channel Estimation**" has been submitted to IEEE journal for possible publication. Codes for the journal version will also be uploaded and merged to this repository upon acceptance. 
 
