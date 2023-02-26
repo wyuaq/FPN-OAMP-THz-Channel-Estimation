@@ -27,8 +27,9 @@ If you find the codes useful for your research, please kindly cite our papers (b
 Create a new conda environment and install dependencies. It is highly suggested to run the codes on GPU, though they work on CPU as well. 
 
 ```
-conda create --name <your_environment_name> --file requirements.txt
+conda create --name <your_environment_name> python=3.8
 conda activate <your_environment_name>
+pip install -r requirements.txt
 ```
 ### Step 2:  Prepare the dataset
 
