@@ -69,7 +69,7 @@ for SNR in testing_SNR:
 
     res_norm_hist_all[SNR], depth_all[SNR] = test_convergence(net, measurements, depth_warning=False)
 
-# Plot the residual norm vs the number of layers
+# Plot the residual norm vs the number of iterations
 plt.switch_backend('agg')
 
 plt.figure(1)
