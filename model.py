@@ -162,7 +162,7 @@ class FPN_OAMP(nn.Module):
         return h, output_LE, output_NLE   # shape: batch_size * 2N (N is the number of antennas)
     
     def normalize_lip_const(self, y: measurements, h: latent_solution):
-        ''' Scale convolutions in R to make it gamma Lipschitz
+        ''' Scale the weights of the NLE to make it gamma Lipschitz. 
 
             ## For MLP backbone (R denotes the NLE):
             It should hold that |R(h1,y) - R(h2,y)| <= gamma * |h1-h2| for all h1
