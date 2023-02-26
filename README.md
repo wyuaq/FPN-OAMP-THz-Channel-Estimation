@@ -32,7 +32,7 @@ conda activate <your_environment_name>
 ```
 ### Step 2:  Prepare the dataset
 
-Download the pre-generated datasets from [FPN-OAMP-dataset](https://hkustconnect-my.sharepoint.com/:f:/g/personal/wyuaq_connect_ust_hk/EnjI6Aev9I5CpNCLdDTvaXQBef3i_gkapkmc8SFBRWsJYw?e=1fwI7o), and paste them into ./dataset/
+Download the pre-generated datasets from [FPN-OAMP-dataset](https://hkustconnect-my.sharepoint.com/:f:/g/personal/wyuaq_connect_ust_hk/EnjI6Aev9I5CpNCLdDTvaXQBef3i_gkapkmc8SFBRWsJYw?e=1fwI7o), and paste them into ./dataset/.
 
 The datasets are quite large and may take some time to download. If you wish to generate your own datasets, you may do so by
 
@@ -44,7 +44,7 @@ The datasets are quite large and may take some time to download. If you wish to 
 
 ### Step 3: Download the checkpoints / Perform training
 
-Download the pretrained checkpoints from [FPN-OAMP-checkpoints](https://hkustconnect-my.sharepoint.com/:f:/g/personal/wyuaq_connect_ust_hk/EnHPxyogdzRIvz4oQsLBU1EBjmuR9dFlzeTX2CjTw1Rbkw?e=hy61F9), and paste it into ./checkpoints/
+Download the pretrained checkpoints from [FPN-OAMP-checkpoints](https://hkustconnect-my.sharepoint.com/:f:/g/personal/wyuaq_connect_ust_hk/EnHPxyogdzRIvz4oQsLBU1EBjmuR9dFlzeTX2CjTw1Rbkw?e=hy61F9), and paste it into ./checkpoints/.
 
 Two checkpoints are provided for download, one trained with SNR in [0,10] dB, and the other trained with SNR in [10,20] dB. We find that dividing the SNR into two ranges offers competitive performance and good generalization capability. 
 
@@ -54,7 +54,7 @@ If you wish to retrain the neural networks, you may do so by
 
 ### Step 4: Perform testing
 
-We provide three demos to test the performance in ./demos/. Demo1 evaluates the NMSE performance as a function of SNR. Demo2 evaluates the NMSE performance as a function of the number of iterations (convergence in terms of the objective function). Demo3 evaluates the residual norm as a function of the number of iterations (linear convergence rate to the unique fixed point). The relevant figures are available at ./figures/
+We provide three demos to test the performance in ./demos/. Demo1 evaluates the NMSE performance as a function of SNR. Demo2 evaluates the NMSE performance as a function of the number of iterations (convergence in terms of the objective function). Demo3 evaluates the residual norm as a function of the number of iterations (linear convergence rate to the unique fixed point). The relevant figures are available at ./figures/.
 
 **Note:** the results reproduced by this repository is slightly better than those reported in our paper, due to the additional use of layer normalization. 
 
