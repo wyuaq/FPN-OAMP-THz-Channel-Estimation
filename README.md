@@ -6,7 +6,7 @@ This repository contains the codes of the fixed point network-based orthogonal a
 
 The extended [journal version](https://arxiv.org/pdf/2211.15939.pdf) "**An Adaptive and Robust Deep Learning Framework for THz Ultra-Massive MIMO Channel Estimation**" has been submitted to IEEE journal for possible publication. Codes will also be uploaded and merged to this repository upon acceptance. 
 
-The notations used in the codes may be slightly different from those in the papers. I tried to clarify with detailed comments. Should you meet any confusion or need any further help, please feel free to contact me via email (you can find the address in the papers listed above). 
+The notations used in the codes may be slightly different from those in the papers. I tried to clarify with detailed comments. Should you meet any confusion or need any further help, please feel free to contact me via email. 
 
 If you find the codes useful for your research, please kindly cite our papers (bibtex file is provided at the bottom). Enjoy reproducible research! 
 
