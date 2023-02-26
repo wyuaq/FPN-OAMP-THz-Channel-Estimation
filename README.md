@@ -32,9 +32,9 @@ conda activate <your_environment_name>
 ```
 ### Step 2:  Prepare the dataset
 
-Download the pre-generated datasets from [FPN-OAMP-dataset](https://hkustconnect-my.sharepoint.com/:f:/g/personal/wyuaq_connect_ust_hk/EnjI6Aev9I5CpNCLdDTvaXQBef3i_gkapkmc8SFBRWsJYw?e=1fwI7o), and paste it into ./dataset/
+Download the pre-generated datasets from [FPN-OAMP-dataset](https://hkustconnect-my.sharepoint.com/:f:/g/personal/wyuaq_connect_ust_hk/EnjI6Aev9I5CpNCLdDTvaXQBef3i_gkapkmc8SFBRWsJYw?e=1fwI7o), and paste them into ./dataset/
 
-The dataset is quite large and may take some time to download. If you wish to generate your own datasets, you may do so by
+The datasets are quite large and may take some time to download. If you wish to generate your own datasets, you may do so by
 
 > First, running ./channel_AoSA/main_generate_hybrid_field_channel.m
 > 
