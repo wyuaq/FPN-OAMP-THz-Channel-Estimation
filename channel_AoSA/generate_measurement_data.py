@@ -82,7 +82,7 @@ if __name__ == '__main__':
     n2 = 10
     num_SNR_levels = 100
     SNR_dB = np.random.uniform(n1, n2, size=num_SNR_levels)
-    training_y, training_sigma_squared = genMeasurements(training_x, A, W_RF_hermitian, SNR_dB)
+    training_y, training_sigma_squared = genMeasurements(validation_x, A, W_RF_hermitian, SNR_dB)
     D = dict(y=training_y, sigma_squared=training_sigma_squared)
     savemat('./dataset/THzUMHF_'+type+'_validation_'+str(M)+'_measurements_'+str(n1)+'to'+str(n2)+'dB.mat', D)
 
@@ -90,7 +90,7 @@ if __name__ == '__main__':
     n2 = 20
     num_SNR_levels = 100
     SNR_dB = np.random.uniform(n1, n2, size=num_SNR_levels)
-    training_y, training_sigma_squared = genMeasurements(training_x, A, W_RF_hermitian, SNR_dB)
+    training_y, training_sigma_squared = genMeasurements(validation_x, A, W_RF_hermitian, SNR_dB)
     D = dict(y=training_y, sigma_squared=training_sigma_squared)
     savemat('./dataset/THzUMHF_'+type+'_validation_'+str(M)+'_measurements_'+str(n1)+'to'+str(n2)+'dB.mat', D)
 
