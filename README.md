@@ -69,7 +69,7 @@ author={Yu, Wentao and Shen, Yifei and He, Hengtao and Yu, Xianghao and Song, Sh
 journal={IEEE J. Sel. Topics Signal Process.}, 
 title={An Adaptive and Robust Deep Learning Framework for THz Ultra-Massive MIMO Channel Estimation}, 
 year={2023},
-month={to appear},
+month={to appear,},
 pages={1-16}}
 
 @inproceedings{yu2022hybrid,
