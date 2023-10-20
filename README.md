@@ -65,16 +65,16 @@ We provide three demos to test the performance in ./demos/. Demo1 evaluates the 
 
 ```
 @article{yu2023adaptive,
-	author = {Yu, Wentao and Shen, Yifei and He, Hengtao and Yu, Xianghao and Song, Shenghui and Zhang, Jun and Letaief, Khaled B.},
-	doi = {10.1109/JSTSP.2023.3282832},
-	journal = {IEEE J. Sel. Topics Signal Process.},
-	month = {Jul.},
-	number = {4},
-	pages = {761-776},
-	title = {An Adaptive and Robust Deep Learning Framework for {THz} Ultra-Massive {MIMO} Channel Estimation},
-	volume = {17},
-	year = {2023},
-	bdsk-url-1 = {https://doi.org/10.1109/JSTSP.2023.3282832}}
+author = {Yu, Wentao and Shen, Yifei and He, Hengtao and Yu, Xianghao and Song, Shenghui and Zhang, Jun and Letaief, Khaled B.},
+doi = {10.1109/JSTSP.2023.3282832},
+journal = {IEEE J. Sel. Topics Signal Process.},
+month = {Jul.},
+number = {4},
+pages = {761-776},
+title = {An Adaptive and Robust Deep Learning Framework for {THz} Ultra-Massive {MIMO} Channel Estimation},
+volume = {17},
+year = {2023},
+bdsk-url-1 = {https://doi.org/10.1109/JSTSP.2023.3282832}}
 
 @inproceedings{yu2022hybrid,
   author={Yu, Wentao and Shen, Yifei and He, Hengtao and Yu, Xianghao and Zhang, Jun and Letaief, Khaled B.},
