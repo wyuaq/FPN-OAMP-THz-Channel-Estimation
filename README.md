@@ -64,14 +64,14 @@ We provide three demos to test the performance in ./demos/. Demo1 evaluates the 
 ## Citation
 
 ```
-@article{yu2023adaptive,
+@article{yu2024Bayes,
 author = {Yu, Wentao and He, Hengtao and Yu, Xianghao and Song, Shenghui and Zhang, Jun and Murch, Ross and Letaief, Khaled B.},
 doi = {},
 journal = {IEEE J. Sel. Topics Signal Process.},
 month = {to appear, },
 number = {},
 pages = {1-16},
-title = {An Adaptive and Robust Deep Learning Framework for {THz} Ultra-Massive {MIMO} Channel Estimation},
+title = {Bayes-Optimal Unsupervised Learning for Channel Estimation in Near-Field Holographic {MIMO}},
 volume = {},
 year = {2024}}
 
