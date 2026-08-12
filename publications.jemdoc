@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+#=== Under Peer Review
+
+
+=== Journal
+(* denotes corresponding author)
+. Analog RF computing: A new paradigm for energy-efficient edge AI over MU-MIMO systems \[[https://arxiv.org/pdf/2605.14331 arxiv]\]\n
+*Wentao Yu*, Vincent W.S. Wong \n
+/IEEE Transactions on Wireless Communications/, in revision. \n
+. Deep learning-based sensing with deterministic pilots and random data payloads \n
+Yang Li, Hengtao He, *Wentao Yu*, Jing Zhang, Chao-Kai Wen, Shi Jin \n
+/IEEE Wireless Communications Letters/, in revision. \n
+. Sensing-assisted channel estimation for flexible-antenna systems: A unified framework \[[https://arxiv.org/pdf/2604.27626 arxiv]\]\n
+Ruoxiao Cao, *Wentao Yu**, Zixin Wang, Shenghui Song, Jun Zhang, Yi Gong, Khaled B. Letaief \n
+/IEEE Transactions on Wireless Communications/, under review. \n
+. Multimodal mixture-of-experts for ISAC in low-altitude wireless networks \[[https://ieeexplore.ieee.org/document/11534549 paper]\]\[[https://arxiv.org/abs/2512.01750 arxiv]\]\[[https://mp.weixin.qq.com/s/RixCaA7IhOuI3Iqd7ZmRuA media coverage (in Chinese)\]]\n
+Kai Zhang, *Wentao Yu**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief  \n
+/IEEE Journal of Selected Topics in Signal Processing/, accepted, May 2026, DOI: 10.1109/JSTSP.2026.3696558. \n
+. Sensing for free: Learn to localize more sources than antennas without pilots \[[https://ieeexplore.ieee.org/document/11346855 paper]\]\[[https://arxiv.org/abs/2506.23525 arxiv]\] \n
+*Wentao Yu*, Khaled B. Letaief, Lizhong Zheng  \n
+/IEEE Journal on Selected Areas in Communications/, vol. 44, pp. 3285-3301, Jan. 2026. \n
+. AI and deep learning for terahertz ultra-massive MIMO: From model-driven approaches to foundation models \[[https://doi.org/10.1016/j.eng.2025.07.032 paper]\]\[[https://arxiv.org/abs/2412.09839 arxiv]\]\[[https://www.eurekalert.org/news-releases/1122510 media coverage\]]\n
+*Wentao Yu*, Hengtao He, Shenghui Song, Jun Zhang, Linglong Dai, Lizhong Zheng, Khaled B. Letaief \n
+/Engineering/, vol. 56, pp. 14-33, Jan. 2026. (flagship journal of the Chinese Academy of Engineering)\n
+*(Highlight Paper of the Special Issue on 6G)*
+. Deep learning for near-field XL-MIMO transceiver design: Principles and techniques \[[https://ieeexplore.ieee.org/document/10819470 paper]\]\[[https://arxiv.org/abs/2309.09575 arxiv]\]\[[https://mp.weixin.qq.com/s/iQf5K3_Q9hYE0TOFZhif8A media coverage (in Chinese)]\]\n
+*Wentao Yu*, Yifan Ma, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
+/IEEE Communications Magazine/, vol. 63, no. 1, pp. 52-58, Jan. 2025. \n
+. Bayes-optimal unsupervised learning for channel estimation in near-field holographic MIMO \[[https://ieeexplore.ieee.org/abstract/document/10556727 paper]\]\[[https://arxiv.org/abs/2312.10438 arxiv]\]\n
+*Wentao Yu*, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Ross Murch, Khaled B. Letaief \n
+/IEEE Journal of Selected Topics in Signal Processing/, vol. 18, no. 4, pp. 714-729, May 2024.\n 
+*(IEEE Signal Processing Society's Annual Top 25 Downloaded Articles from 2024 to 2025)* \n
+. An adaptive and robust deep learning framework for THz ultra-massive MIMO channel estimation \[[https://ieeexplore.ieee.org/abstract/document/10143629 paper]\]\[[https://arxiv.org/abs/2211.15939 arxiv]\]\[[https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation code]\]\[[https://signalprocessingsociety.org/blog/ai-thz-um-mimo-model-driven-deep-learning-foundation-models webinar]\]\[[https://mp.weixin.qq.com/s/pQiS64t9nqcJDjFBc9YJhA blog (in Chinese)]\] \n
+*Wentao Yu*, Yifei Shen, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
+/IEEE Journal of Selected Topics in Signal Processing/, vol. 17, no. 4, pp. 761-776, Jul. 2023. \n
+*(IEEE Signal Processing Society's Annual Top 25 Downloaded Articles from 2023 to 2024)* \n
+. Multi-label learning based antenna selection in massive MIMO systems \[[https://ieeexplore.ieee.org/abstract/document/9448468 paper]\] \n
+*Wentao Yu*, Tianyu Wang, Shaowei Wang \n
+/IEEE Transactions on Vehicular Technology/, vol. 70, no. 7, pp. 7255-7260, Jul. 2021.
+
+=== Conference
+. Analog RF computing for integrated data and AI flows over wireless networks \n
+*Wentao Yu*, Vincent W.S. Wong \n
+submitted to /Proc. IEEE Global Communications Conference (Globecom) Workshops/, Macau S.A.R., China, Dec. 2026. 
+. Low-complexity gridless single-snapshot DoA estimation via truncated Hankel Newton-MUSIC *(invited paper)* \[[https://arxiv.org/abs/2607.08108 arxiv]\] \n
+Ruoxiao Cao, *Wentao Yu*, Yi Gong, Khaled B. Letaief \n
+submitted to /Proc. IEEE Conference on Integrated Sensing and Communications (ISAC)/, Lisbon, Portugal, Nov. 2026. 
+. Multimodal deep learning-empowered beam prediction in future THz ISAC systems *(invited paper)* \[[https://ieeexplore.ieee.org/abstract/document/11275056 paper]\]\[[https://arxiv.org/abs/2505.02381 arxiv]\] \n
+Kai Zhang, *Wentao Yu*, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
+in /Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)/, Istanbul, Turkey, Sept. 2025. 
+. Learning Bayes-optimal channel estimation for holographic MIMO in unknown EM environments \[[https://ieeexplore.ieee.org/document/10622519 paper]\]\[[https://arxiv.org/abs/2311.07908 arxiv]\] \n
+*Wentao Yu*, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Ross Murch, Khaled B. Letaief \n
+in /Proc. IEEE International Conference on Communications (ICC)/, Denver, CO, USA, Jun. 2024. 
+. Lightweight and flexible deep equilibrium learning for CSI feedback in FDD massive MIMO \[[https://ieeexplore.ieee.org/document/10624945 paper]\]\[[https://arxiv.org/abs/2211.15079 arxiv]\] \n
+Yifan Ma, *Wentao Yu*, Xianghao Yu, Jun Zhang, Shenghui Song, Khaled B. Letaief \n
+in /Proc. IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)/, Stockholm, Sweden, May 2024. 
+. Newtonized near-field channel estimation for ultra-massive MIMO systems \[[https://ieeexplore.ieee.org/document/10570624 paper]\] \n
+Ruoxiao Cao, *Wentao Yu*, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Yi Gong, Khaled B. Letaief \n
+in /Proc. IEEE Wireless Communications and Networking Conference (WCNC)/, Dubai, UAE, Apr. 2024. 
+. Task-oriented communication with out-of-distribution detection: An information bottleneck framework \[[https://ieeexplore.ieee.org/document/10436784 paper]\]\[[https://arxiv.org/abs/2305.12423 arxiv]\] \n
+Hongru Li, *Wentao Yu*, Hengtao He, Jiawei Shao, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
+in /Proc. IEEE Global Communications Conference (Globecom)/, Kuala Lumpur, Malaysia, Dec. 2023.
+. Blind performance prediction for deep learning based ultra-massive MIMO channel estimation \[[https://ieeexplore.ieee.org/document/10278894 paper]\]\[[https://arxiv.org/abs/2211.07985 arxiv]\] \n
+*Wentao Yu*, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
+in /Proc. IEEE International Conference on Communications (ICC)/, Rome, Italy, May-Jun. 2023.
+. Hybrid far- and near-field channel estimation for THz ultra-massive MIMO via fixed point networks \[[https://ieeexplore.ieee.org/document/10001564 paper]\]\[[https://arxiv.org/abs/2205.04944 arxiv]\] \n
+*Wentao Yu*, Hengtao He, Xianghao Yu, Shenghui Song, Jun Zhang, Khaled B. Letaief \n
+in /Proc. IEEE Global Communications Conference (Globecom)/, Rio de Janeiro, Brazil, Dec. 2022.
+. Inter-slice radio resource management via online convex optimization \[[https://ieeexplore.ieee.org/document/9500493 paper]\] \n
+Tianyu Wang, *Wentao Yu*, Shaowei Wang \n
+in /Proc. IEEE International Conference on Communications (ICC)/, Montreal, QC, Canada, Jun. 2021. \n
+\n 
